@@ -1,4 +1,4 @@
-# <Conditional> Component
+# `<Conditional>` Component
 
 Conditional Component is a higher order component to help with conditionally
 rendering components.
