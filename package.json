@@ -1,0 +1,41 @@
+{
+  "name": "conditional-component",
+  "version": "1.0.0",
+  "description": "Conditionally render a React component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src/index.js --out-file index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandean/conditional-component.git"
+  },
+  "keywords": [
+    "react",
+    "higher order component",
+    "hoc"
+  ],
+  "author": "Dan Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dandean/conditional-component/issues"
+  },
+  "homepage": "https://github.com/dandean/conditional-component#readme",
+  "peerDependencies": {
+    "react": "^0.14",
+    "react-dom": "^0.14"
+  },
+  "devDependencies": {
+    "babel": "^5.8.35",
+    "babel-core": "^5.8.35",
+    "babel-eslint": "4.1.6",
+    "babel-loader": "^5.4.0",
+    "babel-runtime": "^5.8.35",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "babel": {
+    "stage": 1
+  }
+}
