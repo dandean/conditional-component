@@ -3,7 +3,7 @@
 Conditional Component is a higher order component to help with conditionally
 rendering components.
 
-### Example
+## Example
 
 ```js
 import React, { Component, PropTypes } from 'react';
@@ -40,3 +40,7 @@ class ContactsList extends Component {
   }
 }
 ```
+
+## Install
+
+`npm install --save conditional-component`
