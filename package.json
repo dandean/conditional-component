@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/dandean/conditional-component#readme",
   "peerDependencies": {
-    "react": "^15.4.2",
+    "react": "^15.5.2",
     "react-dom": "^15.4.2"
   },
   "devDependencies": {
